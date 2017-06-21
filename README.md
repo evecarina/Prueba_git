@@ -1,2 +1,2 @@
-# Prueba_git
-Repositorios de pruebas con git
+# PRUEBA GIT
+Mi primer repositorio
